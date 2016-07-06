@@ -2,7 +2,7 @@
   :dependencies [[org.clojure/clojure "{{clojure-version}}"]
                  [org.clojure/clojurescript "1.9.89"]]
 
-  :plugins [[lein-figwheel "0.5.4-4"]
+  :plugins [[lein-figwheel "0.5.4-5"]
             [lein-cljsbuild "1.1.3"]]
 
   :cljsbuild
