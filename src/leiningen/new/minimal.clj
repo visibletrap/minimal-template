@@ -7,7 +7,7 @@
   [name & options]
   (let [data {:name name
               :sanitized (name-to-path name)
-              :clojure-version "1.9.0-alpha9"}
+              :clojure-version "1.9.0-alpha10"}
         figwheel? (and (seq options) (= (first options) "+figwheel"))]
     (cond
       figwheel?
