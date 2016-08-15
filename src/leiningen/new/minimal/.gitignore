@@ -2,3 +2,5 @@
 pom.xml
 pom.xml.asc
 *.log
+*.lein-*
+resources/public/js
