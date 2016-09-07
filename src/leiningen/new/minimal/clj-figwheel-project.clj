@@ -1,6 +1,6 @@
 (defproject {{name}} "0.1.0-SNAPSHOT"
   :dependencies [[org.clojure/clojure "{{clojure-version}}"]
-                 [org.clojure/clojurescript "1.9.225"]]
+                 [org.clojure/clojurescript "1.9.229"]]
 
   :plugins [[lein-figwheel "0.5.4-7"]
             [lein-cljsbuild "1.1.3"]]
