@@ -2,8 +2,8 @@
   :dependencies [[org.clojure/clojure "{{clojure-version}}"]
                  [org.clojure/clojurescript "1.9.229"]]
 
-  :plugins [[lein-figwheel "0.5.4-7"]
-            [lein-cljsbuild "1.1.3"]]
+  :plugins [[lein-figwheel "0.5.7"]
+            [lein-cljsbuild "1.1.4"]]
 
   :cljsbuild
   {:builds
