@@ -7,7 +7,7 @@
   [name & options]
   (let [data {:name name
               :sanitized (name-to-path name)
-              :clojure-version "1.9.0-alpha19"} ]
+              :clojure-version "1.9.0-alpha20"} ]
     (->files data
              ["project.clj" (render "project.clj" data)]
              [".gitignore" (render ".gitignore")]
