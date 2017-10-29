@@ -1,4 +1,4 @@
-(defproject minimal/lein-template "1.4.3"
+(defproject minimal/lein-template "1.4.4"
   :description "A minimalist template to get started with Clojure project."
   :url "https://github.com/visibletrap/minimal-template"
   :license {:name "Eclipse Public License"
